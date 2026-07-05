@@ -9,7 +9,7 @@ Connect with me
 </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/anuj-chauhan-5a04a1322/" target="_blank">
+<a href="https://www.linkedin.com/in/anuj-chauhan-5a04a1322/"](https://www.linkedin.com/in/anuj-pratap-singh-chauhan-5a04a1322/) target="_blank">
 <img src="https://img.icons8.com/color/48/linkedin.png"/>
 </a>
 </p>
