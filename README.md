@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anuj Chauhan</h1>
+<h1 align="center">Hi 👋, I'm Anuj Pratap Singh Chauhan</h1>
 <h3 align="center">AI Engineer | RAG Pipeline | Agents | Python | SQL | Power BI | Machine Learning</h3>
 
 <p align="center">
