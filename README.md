@@ -14,10 +14,14 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 B.Tech in Artificial Intelligence & Machine Learning at **ITM University, Gwalior** (graduating May 2027)
-- 🔭 Building AI / Data Science projects: RAG apps, computer vision and analytics dashboards
-- 💼 Open to Data Analyst, Data Scientist, AI Engineer and Software Engineering Trainee roles / internships
-- 🧩 50+ day coding streak on LeetCode
+### 👨‍💻 About Me
+
+- 🎓 B.Tech in AI & ML at **ITM University, Gwalior** (CGPA 7.6/10, graduating May 2027)
+- 🤖 I build **RAG applications, NLP systems and analytics dashboards** with Python, SQL, FastAPI and Streamlit
+- 🚀 Deployed projects with live demos: legal-tech AI and a resume-grounded interview coach
+- 🧩 50+ day LeetCode streak | 🥉 3rd place, Syntax Survival (TechRhythm 2.0)
+- 💼 **Looking for:** Specialist Programmer / Digital Specialist Engineer / Data Analyst / AI Engineer (entry-level)
+
 
 ---
 
@@ -48,6 +52,14 @@
   <a href="https://docs.jupyter.org/" target="_blank"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/></a>
 </p>
 
+<a href="https://python.langchain.com/docs/" target="_blank"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/></a>
+<a href="https://www.tensorflow.org/api_docs" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/></a>
+<a href="https://www.postgresql.org/docs/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
+<a href="https://docs.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
+<a href="https://docs.trychroma.com/" target="_blank"><img src="https://img.shields.io/badge/ChromaDB-FF6446?style=for-the-badge&logoColor=white" alt="ChromaDB"/></a>
+<a href="https://faiss.ai/" target="_blank"><img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="FAISS"/></a>
+<a href="https://seaborn.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logoColor=white" alt="Seaborn"/></a>
+
 <p align="center">
   <a href="https://learn.microsoft.com/en-us/power-bi/" target="_blank"><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/></a>
   <a href="https://help.tableau.com/" target="_blank"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/></a>
@@ -71,23 +83,40 @@
 
 ### 📁 Featured Projects
 
-- 🎤 **RAG-Based AI Interview Coach** – Streamlit app that helps users practice interviews with AI-driven feedback
-- 📄 **Chat with Multiple Documents** – RAG app to ask questions across several documents
-- ⚖️ **ClauseWise** – Legal document analysis app built with Streamlit
-- 🎯 **Real-Time Object Detection & Counting Dashboard** – YOLOv8 + OpenCV dashboard
-- 📚 **VeritasPrep AI** – AI-powered preparation app built with Streamlit
-- 📊 **Power BI Financial Dashboard** – Analyzed $57M+ revenue and $46M+ transaction volume, improving reporting efficiency by 30%
-- 🕸️ **E-commerce Scraping Pipeline** – Python pipeline that structured 10,000+ product records for pricing analysis
+### 📁 Featured Projects
+
+**⚖️ ClauseWise AI: Legal Document Intelligence System** | [GitHub](https://github.com/anujchauhan2005/Clausewise-ai) | [Live Demo](https://clausewise-ai-legal9.streamlit.app/)
+- Full-stack legal-tech app (FastAPI + Streamlit) with zero-shot clause classification, NER and rule-based risk scoring
+- RAG-based document Q&A using FAISS and Groq LLM, plus an evaluation pipeline (Accuracy, F1, ROUGE)
+- **85% clause classification accuracy** on a hand-labeled evaluation set
+- 🛠️ `FastAPI` `Streamlit` `FAISS` `NLP` `RAG` `Groq`
+
+**🎤 VeritasPrep AI: Resume-Grounded RAG Interview Coach** | [GitHub](https://github.com/anujchauhan2005/veritasprep-ai) | [Live Demo](https://veritasprep-ai-dqxjhazuiuscpf3oopdnpv.streamlit.app/)
+- Interview Q&A retrieved from the user's own resume instead of generic advice
+- Streaming chat, persistent memory (PostgreSQL/SQLite) and custom evaluation (precision@k, recall@k, MRR, groundedness)
+- 🛠️ `FastAPI` `Streamlit` `ChromaDB` `PostgreSQL` `RAG`
+
+**📊 Credit Card Financial Dashboard** | [GitHub](https://github.com/anujchauhan2005/Credit_card_financial_dashboard)
+- Interactive Power BI dashboard using SQL and DAX for transactions, revenue trends and customer behavior
+- Analyzed **$57M+ revenue** and **$46M+ transaction volume**, improving reporting efficiency by **30%**
+- 🛠️ `Power BI` `SQL` `DAX` `EDA`
+
+ 
 
 ---
 
 ### 🏆 Achievements & Certifications
 
-- 🥉 3rd place in a competitive coding contest at **TechRhythm 2.0**
-- 🔥 50+ day coding streak on LeetCode
-- ☁️ AWS Academy Cloud Foundations
-- 🤖 Prompt Engineering and Deep Learning certifications
-- 💻 SyntaxSurvival Hackathon participant
+
+- 🥉 **3rd Position**, Syntax Survival coding competition, TechRhythm 2.0 (2026)
+- 🔥 **LeetCode 50 Days Badge 2026** (50+ consecutive days)
+- ☁️ **ServiceNow Certified Application Developer (CAD)** | Oct 2026
+- ☁️ **ServiceNow Certified System Administrator (CSA)** | Oct 2026
+- ☁️ AWS Academy Graduate, Cloud Foundations | Nov 2025
+- 🧠 Deep Learning, NPTEL (SWAYAM) | Jan–Apr 2026
+- 📚 Complete Machine Learning & Data Science Course, GeeksforGeeks | 2026
+- 🤖 Generative AI and ChatGPT, GeeksforGeeks | 2026
+- ✍️ Prompt Engineering, FreeAcademy.ai | June 2026
 
 ---
 
