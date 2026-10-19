@@ -1,76 +1,85 @@
-<h1 align="center">Hi 👋, I'm Anuj Pratap Singh</h1>
-
-<h3 align="center">
-Data Analyst | Python | SQL | Power BI | Machine Learning
-</h3>
-
-<h3 align="center">
-Connect with me
-</h3>
+<h1 align="center">Hi 👋, I'm Anuj Chauhan</h1>
+<h3 align="center">AI Engineer | Rag Pipeline | Agent | Python | SQL | Power BI | Machine Learning</h3>
 
 <p align="center">
-<a href= https://www.linkedin.com/in/anuj-pratap-singh-chauhan-5a04a1322/?skipRedirect=true     >
-<img src="https://img.icons8.com/color/48/linkedin.png"/>
-</a>
+  <img src="https://komarev.com/ghpvc/?username=Sumitsharma12321&label=Profile%20Views&color=0e75b6&style=flat />
+</p>
+
+<p align="center">
+  🎓 Fresher actively looking for opportunities in <b>Data Analytics / Data Science / AI Engineer</b> &nbsp;|&nbsp;
+  📍 India
+</p>
+
+
+
+
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="(https://www.linkedin.com/in/anuj-pratap-singh-chauhan-5a04a1322/)" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/u/o7AMeTJ7mp/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="mailto:anujchauhan78284@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </p>
 
 ---
 
-### 🚀 Languages and Tools
- 
- 
+### 🚀 Languages & Tools
 
 <p align="center">
-
-<a href="https://www.python.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=python" height="55"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" height="55"/>
-</a>
-
-<a href="https://powerbi.microsoft.com/" target="_blank">
-<img src="https://img.icons8.com/color/96/power-bi.png" height="55"/>
-</a>
-
-<a href="https://www.microsoft.com/en/microsoft-365/excel" target="_blank">
-<img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" height="55"/>
-</a>
-
-<a href="https://pandas.pydata.org/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="55"/>
-</a>
-
-<a href="https://numpy.org/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="55"/>
-</a>
-
-<a href="https://matplotlib.org/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="55"/>
-</a>
-
-<a href="https://seaborn.pydata.org/" target="_blank">
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="55"/>
-</a>
-
-<a href="https://plotly.com/" target="_blank">
-<img src="https://cdn.worldvectorlogo.com/logos/plotly.svg" height="55"/>
-</a>
-
-<a href="https://www.selenium.dev/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" height="55"/>
-</a>
-
-<a href="https://github.com/" target="_blank">
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="55"/>
-</a>
-
+  <img src="https://skillicons.dev/icons?i=py,mysql,git,github,vscode,jupyter" />
 </p>
-```
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+</p>
+
+---
+
+
+
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sumitsharma12321&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumitsharma12321&layout=compact&hide_border=true&theme=default" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumitsharma12321&hide_border=true&theme=default" alt="GitHub Streak"/>
+</p>
+
+---
 
 ### 📫 Contact Me
-📧 Email: anujchauhan78284@gmail.com  
-  
-💼 LinkedIn: https://www.linkedin.com/in/anuj-chauhan-5a04a1322/
+
+📧 **Email:** anujchauhan78284@gmail.com
+🔗 **LinkedIn:** [](https://www.linkedin.com/in/anuj-pratap-singh-chauhan-5a04a1322/)
+💻 **LeetCode:*[](https://leetcode.com/u/o7AMeTJ7mp/)
+
+<p align="center">⭐️ Thanks for visiting my profile — feel free to connect, I'm open to opportunities!</p>
